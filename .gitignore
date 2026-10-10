@@ -124,3 +124,9 @@ _modules/*
 
 /results/
 /phpunit.xml
+
+.env
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/debugbar/*
